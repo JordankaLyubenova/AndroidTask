@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="map_permision_denied">Grant permision for using this map.</string>
+    <string name="tab_name_places">PLACES</string>
+    <string name="tab_name_map">MAP</string>
+</resources>
